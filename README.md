@@ -11,4 +11,4 @@
   * DevOps is a software development approach which involves Continuous Development, Continuous Testing, Continuous Integration, Continuous Deployment and Continuous Monitoring throughout its development.
 
 ## What is Jenkins?
-  * **Jenkins** is a **Integration Tool**. It is called Heart of the Software Development Life Cycle
+  * **Jenkins** is a **Integration Tool** used for CI/CD. It is called Heart of the Software Development Life Cycle
