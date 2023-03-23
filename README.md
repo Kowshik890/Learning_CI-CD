@@ -1,4 +1,4 @@
-# Learning CI/CD with Jenkins
+# Learning CI/CD using Jenkins
 
 ## CI/CD Pipeline
   * CI/CD nothing but a methodology which is used to automated the process.
